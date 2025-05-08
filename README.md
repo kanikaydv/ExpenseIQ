@@ -41,5 +41,5 @@ ExpenseIQ is a smart personal finance manager that combines AI-powered insights,
 
 ---
 
-## 📂 Project Structure
+
 
