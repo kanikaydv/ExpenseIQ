@@ -1,0 +1,151 @@
+transaction_id,user_id,date,category,amount,payment_mode,bank_name,description,is_recurring,budget_limit,goal_name,goal_target,goal_progress,predicted_next_month_spending,alert_triggered
+TXN100000,1017,2025-05-07,Rent,2289.36,Cash,SBI,Look prove build.,False,6000,Laptop Upgrade,0,6000,2914.47,False
+TXN100001,1002,2025-04-15,Investment,4707.78,UPI,Axis,Action and particular.,False,3000,Laptop Upgrade,0,6000,2212.37,False
+TXN100002,1004,2025-01-18,Investment,1196.73,Cash,ICICI,Focus sell event alone.,False,5000,Emergency Fund,20000,0,2677.21,True
+TXN100003,1012,2024-12-14,Education,4859.5,UPI,Axis,Letter understand allow next act in.,True,5000,None,20000,4000,6111.95,True
+TXN100004,1005,2025-01-16,Utilities,381.62,Cash,ICICI,Drug live a.,False,4000,None,15000,2000,4283.67,False
+TXN100005,1013,2024-12-17,Travel,2512.7,Credit Card,HDFC,Kid where state.,False,2000,New Phone,15000,8000,6304.58,True
+TXN100006,1009,2024-12-12,Utilities,1840.0,Debit Card,Paytm Bank,Until not great win.,True,3000,Emergency Fund,20000,4000,6235.28,False
+TXN100007,1020,2025-04-02,Groceries,2945.92,UPI,Axis,Tv material life environmental similar media.,False,6000,Emergency Fund,0,6000,6708.26,False
+TXN100008,1015,2025-02-04,Dining,220.78,Cash,Paytm Bank,Analysis party beat single.,True,6000,Laptop Upgrade,20000,4000,2097.05,False
+TXN100009,1010,2024-11-20,Utilities,4442.21,Credit Card,Paytm Bank,Response provide bad wish.,True,6000,New Phone,10000,4000,3866.98,True
+TXN100010,1011,2025-02-18,Utilities,1573.51,UPI,HDFC,Couple produce face thousand rich.,False,6000,Laptop Upgrade,10000,4000,2790.99,False
+TXN100011,1003,2025-04-11,Rent,1706.2,UPI,Kotak,Fund early I best attack.,True,6000,Vacation,10000,2000,4795.02,False
+TXN100012,1006,2024-11-25,Rent,2484.11,Cash,Paytm Bank,Away up item two with money.,False,3000,None,15000,4000,5881.14,True
+TXN100013,1008,2024-12-26,Travel,1215.19,Cash,Paytm Bank,Suddenly evidence born.,False,3000,New Phone,0,2000,2343.42,False
+TXN100014,1019,2025-01-05,Entertainment,2778.18,Debit Card,Axis,Time page low out kid.,True,6000,Vacation,15000,8000,6435.28,False
+TXN100015,1015,2025-01-15,Savings,3631.0,Cash,ICICI,Service likely type million father drive.,True,2000,Vacation,15000,0,2538.99,False
+TXN100016,1020,2025-04-10,Education,1874.51,Debit Card,Kotak,Relate others down people red.,True,6000,Laptop Upgrade,20000,0,2341.43,False
+TXN100017,1010,2025-03-14,Entertainment,2760.12,Cash,SBI,Bit as enjoy how them after.,False,4000,None,20000,4000,4226.59,True
+TXN100018,1009,2024-11-28,Healthcare,3772.6,Debit Card,ICICI,Now society enough yard behind back.,True,6000,Laptop Upgrade,15000,2000,5337.66,True
+TXN100019,1015,2025-01-05,Dining,1302.36,Debit Card,ICICI,Road course only with series within.,True,2000,Laptop Upgrade,20000,4000,4941.46,True
+TXN100020,1017,2025-02-22,Utilities,2243.83,Net Banking,Kotak,Those occur morning something almost him.,True,4000,Laptop Upgrade,15000,2000,5322.84,False
+TXN100021,1003,2025-04-08,Education,634.51,Credit Card,Axis,Science side he president character scene product.,False,3000,New Phone,15000,0,2351.18,False
+TXN100022,1008,2025-03-11,Education,1364.38,Debit Card,Paytm Bank,Model sing great TV his.,True,6000,Laptop Upgrade,0,6000,3743.75,True
+TXN100023,1013,2025-01-22,Investment,3375.34,UPI,Axis,Stop power attack face system special.,False,3000,New Phone,0,0,3620.69,False
+TXN100024,1005,2025-05-07,Healthcare,3904.02,Credit Card,Axis,Field author paper expert campaign continue.,False,3000,Vacation,10000,2000,4813.29,True
+TXN100025,1002,2025-02-27,Utilities,3836.72,Credit Card,ICICI,Year care development practice.,True,2000,Vacation,15000,2000,2225.1,False
+TXN100026,1019,2025-02-16,Entertainment,3082.49,Credit Card,SBI,Task they image big throughout.,True,4000,New Phone,0,8000,4150.18,False
+TXN100027,1009,2024-11-18,Healthcare,615.59,Net Banking,Paytm Bank,Concern pass plant.,False,3000,None,15000,0,4615.18,False
+TXN100028,1002,2025-02-13,Education,4120.17,Credit Card,Paytm Bank,Couple student wonder.,True,4000,None,0,0,2951.37,True
+TXN100029,1006,2025-01-20,Entertainment,4573.42,Cash,Paytm Bank,Office good daughter.,False,6000,None,20000,8000,4777.1,True
+TXN100030,1020,2025-03-12,Rent,2686.87,UPI,Kotak,Morning position join meet popular.,False,3000,Vacation,10000,4000,3843.55,True
+TXN100031,1003,2025-05-01,Healthcare,741.81,UPI,Kotak,What entire certain role.,False,4000,Emergency Fund,15000,8000,4398.39,True
+TXN100032,1008,2025-04-10,Savings,3309.79,Credit Card,ICICI,Mission green customer write individual rather.,True,5000,New Phone,15000,0,6915.99,True
+TXN100033,1011,2025-01-12,Healthcare,2737.25,Net Banking,Axis,Position Mr detail mention.,True,3000,New Phone,10000,6000,5179.01,True
+TXN100034,1019,2024-11-23,Education,1761.75,Debit Card,Kotak,Product ten sea tend be.,True,3000,Emergency Fund,10000,0,4407.86,False
+TXN100035,1019,2024-12-02,Healthcare,4044.87,Net Banking,Axis,Station want themselves physical doctor.,False,4000,None,15000,2000,6958.39,False
+TXN100036,1000,2025-03-13,Investment,4454.24,Cash,Kotak,Type need yard enjoy watch.,False,4000,New Phone,15000,2000,3315.64,False
+TXN100037,1001,2024-12-17,Investment,4690.17,Credit Card,Kotak,Hundred someone police.,False,2000,Emergency Fund,0,2000,4615.43,True
+TXN100038,1001,2025-03-07,Healthcare,1233.28,Cash,ICICI,Option day thus environmental human.,False,4000,Emergency Fund,15000,2000,6564.41,True
+TXN100039,1020,2025-04-27,Savings,4518.79,Net Banking,Kotak,Point indeed too finally shake woman.,False,2000,Vacation,0,4000,5387.11,True
+TXN100040,1002,2025-04-06,Utilities,4036.88,Credit Card,Kotak,Sport discover could when.,True,2000,None,20000,4000,2169.42,False
+TXN100041,1015,2024-12-03,Savings,160.09,Net Banking,ICICI,Question remain else west produce.,False,3000,Vacation,15000,2000,5573.55,False
+TXN100042,1019,2025-03-13,Travel,446.76,UPI,Axis,These improve water.,False,6000,Laptop Upgrade,10000,6000,5843.11,True
+TXN100043,1016,2025-04-18,Entertainment,1911.19,UPI,Paytm Bank,Policy child able watch probably night.,True,3000,New Phone,0,0,5342.09,False
+TXN100044,1008,2025-04-18,Education,4272.97,UPI,Paytm Bank,Test visit adult particularly care.,True,2000,Vacation,10000,6000,3519.01,True
+TXN100045,1003,2025-03-07,Rent,3946.68,Debit Card,HDFC,Poor enough if.,True,4000,Laptop Upgrade,0,6000,6112.7,False
+TXN100046,1005,2025-01-09,Rent,4080.67,UPI,Paytm Bank,Design that feeling paper director.,False,3000,None,15000,8000,4507.03,True
+TXN100047,1014,2025-02-01,Savings,3419.7,UPI,HDFC,Language perhaps himself.,True,2000,Laptop Upgrade,10000,2000,5986.97,True
+TXN100048,1015,2025-04-24,Utilities,236.91,Credit Card,HDFC,City threat commercial.,False,6000,Vacation,20000,4000,5976.26,False
+TXN100049,1002,2025-04-05,Investment,2683.7,Credit Card,Paytm Bank,Green thing central.,False,5000,None,15000,0,6550.33,True
+TXN100050,1013,2025-03-14,Savings,953.62,Debit Card,HDFC,Season small meet.,True,3000,Laptop Upgrade,20000,2000,4874.34,False
+TXN100051,1001,2024-11-12,Healthcare,585.85,UPI,ICICI,School set state where six.,False,3000,None,10000,2000,5959.92,False
+TXN100052,1010,2025-04-11,Entertainment,2327.91,UPI,Paytm Bank,Tend message also never into.,False,4000,Laptop Upgrade,15000,4000,3207.83,True
+TXN100053,1007,2025-01-21,Entertainment,1277.06,UPI,Kotak,Practice benefit Mr within be.,True,3000,Vacation,10000,0,3247.44,True
+TXN100054,1008,2025-03-13,Savings,4411.25,Debit Card,Axis,Fund conference fine.,False,5000,Emergency Fund,20000,6000,4588.61,False
+TXN100055,1013,2025-03-01,Rent,2390.75,Debit Card,Axis,Indicate conference close imagine.,False,2000,Laptop Upgrade,10000,8000,4891.41,False
+TXN100056,1005,2025-04-14,Dining,2677.76,Cash,HDFC,Sister relationship under explain remain.,True,2000,New Phone,10000,8000,3507.42,False
+TXN100057,1007,2025-04-25,Dining,1508.95,Credit Card,ICICI,Energy structure social field yet main.,False,2000,New Phone,0,0,5603.15,False
+TXN100058,1014,2025-04-16,Rent,1319.44,Debit Card,Axis,Trip majority often prove we international.,True,6000,Vacation,0,2000,6741.19,False
+TXN100059,1019,2025-05-01,Entertainment,3216.95,Debit Card,Axis,Music discussion about find writer.,True,5000,Emergency Fund,20000,2000,2288.61,True
+TXN100060,1005,2025-02-01,Education,4359.67,Net Banking,Paytm Bank,Air red gas us.,True,3000,Emergency Fund,20000,6000,5211.73,True
+TXN100061,1001,2024-11-28,Rent,1604.63,UPI,Axis,Treatment discussion success pass deal magazine.,True,2000,New Phone,10000,2000,2879.01,False
+TXN100062,1016,2025-01-16,Savings,3221.59,Credit Card,Kotak,Letter challenge stock raise.,False,4000,None,20000,6000,4178.53,False
+TXN100063,1005,2025-03-28,Groceries,4300.9,Cash,ICICI,Service cold adult.,False,5000,Laptop Upgrade,10000,2000,6985.31,True
+TXN100064,1008,2025-04-01,Investment,1811.96,UPI,Kotak,Certainly somebody arrive thousand car.,False,2000,Emergency Fund,0,8000,6372.91,True
+TXN100065,1004,2025-03-11,Investment,3565.95,Credit Card,SBI,Site away one several star magazine.,True,4000,Emergency Fund,20000,0,2424.76,False
+TXN100066,1006,2025-04-11,Groceries,963.63,Debit Card,Kotak,Treat mouth authority.,False,5000,Emergency Fund,0,2000,2269.29,False
+TXN100067,1007,2024-12-01,Entertainment,557.3,UPI,HDFC,Let very assume effect.,True,3000,Emergency Fund,20000,8000,4532.84,False
+TXN100068,1017,2024-11-19,Investment,4670.93,Net Banking,Kotak,Off learn pull set whom.,True,2000,None,15000,6000,4256.37,True
+TXN100069,1008,2025-03-09,Groceries,1164.27,UPI,SBI,Its use behavior catch indicate grow.,False,6000,Vacation,10000,0,5366.35,True
+TXN100070,1000,2024-11-21,Investment,2873.02,Net Banking,HDFC,Often option certain stock.,True,6000,New Phone,10000,0,6346.0,False
+TXN100071,1018,2025-02-27,Dining,4980.19,UPI,Paytm Bank,Early moment this worker enough decade.,False,6000,Emergency Fund,0,4000,5931.44,False
+TXN100072,1013,2025-04-06,Investment,1909.94,Debit Card,Axis,Itself suggest person attorney office.,True,4000,None,10000,8000,5448.92,True
+TXN100073,1001,2025-01-24,Travel,836.8,Debit Card,SBI,Feeling less share.,True,6000,Laptop Upgrade,20000,8000,6670.7,False
+TXN100074,1006,2024-11-21,Rent,1093.13,Credit Card,Axis,Might table term.,True,2000,Vacation,15000,4000,5662.73,True
+TXN100075,1015,2024-11-19,Savings,4174.8,Debit Card,SBI,Offer home method follow human.,True,5000,New Phone,10000,2000,1841.6,False
+TXN100076,1016,2024-12-05,Utilities,3052.53,Credit Card,HDFC,Only level guy game information cause.,False,4000,New Phone,0,2000,2769.52,True
+TXN100077,1010,2025-01-09,Savings,330.47,Credit Card,HDFC,First national even toward.,False,6000,Emergency Fund,10000,4000,4304.68,True
+TXN100078,1007,2025-03-31,Travel,4278.83,Net Banking,SBI,Middle forward author until.,False,5000,Vacation,0,8000,6940.79,True
+TXN100079,1015,2025-04-04,Dining,4750.27,Debit Card,Axis,Baby drop student difference.,False,4000,Emergency Fund,20000,2000,3339.64,True
+TXN100080,1007,2025-02-25,Education,2018.7,Cash,ICICI,Baby edge bar oil and media.,False,4000,Vacation,20000,4000,6121.75,False
+TXN100081,1001,2025-03-30,Savings,2622.74,UPI,SBI,Easy or country again.,False,5000,Laptop Upgrade,10000,6000,4908.09,False
+TXN100082,1018,2025-03-26,Entertainment,2655.67,UPI,Paytm Bank,Mean note produce.,True,2000,None,15000,0,4189.97,False
+TXN100083,1006,2025-03-29,Dining,2721.43,UPI,SBI,Staff where none.,False,3000,Vacation,15000,4000,4103.54,True
+TXN100084,1003,2024-12-29,Education,1649.35,Cash,SBI,Old local sense.,False,5000,New Phone,0,0,3892.47,True
+TXN100085,1000,2024-11-09,Rent,2197.24,Net Banking,HDFC,Few water else someone black enter.,True,3000,New Phone,20000,6000,5764.62,False
+TXN100086,1013,2025-03-11,Savings,2225.61,Cash,HDFC,Some provide break rest city.,True,5000,Vacation,15000,8000,3727.16,False
+TXN100087,1017,2025-04-02,Healthcare,3473.47,Net Banking,Axis,Page cell yet.,False,3000,Laptop Upgrade,0,8000,6381.67,False
+TXN100088,1006,2025-01-24,Savings,3001.33,Debit Card,SBI,Wall raise enter politics eight always.,True,3000,Vacation,10000,8000,3863.32,False
+TXN100089,1010,2025-03-19,Travel,3176.53,Debit Card,Axis,Name she study Congress seat financial.,False,3000,Vacation,10000,2000,3294.8,True
+TXN100090,1013,2024-11-30,Healthcare,4706.88,UPI,Paytm Bank,Recognize miss here great former.,False,2000,None,15000,2000,5760.45,False
+TXN100091,1001,2025-03-28,Healthcare,4063.0,UPI,ICICI,Reveal will among.,True,4000,New Phone,10000,0,5797.24,False
+TXN100092,1017,2024-12-07,Dining,766.45,Debit Card,Paytm Bank,Huge process dream individual.,False,6000,Laptop Upgrade,20000,6000,4337.66,False
+TXN100093,1007,2025-02-06,Dining,717.14,Net Banking,ICICI,Value yet successful.,False,2000,Emergency Fund,20000,2000,2904.57,False
+TXN100094,1002,2025-04-20,Education,2337.59,Credit Card,Axis,I act administration since feel.,True,3000,Laptop Upgrade,0,4000,4652.32,False
+TXN100095,1011,2024-11-19,Groceries,1967.26,Cash,ICICI,Base decision we box happy.,False,4000,None,15000,8000,1779.11,True
+TXN100096,1009,2025-02-07,Education,992.01,Cash,ICICI,Recognize only per others TV response.,True,5000,None,0,2000,2847.5,True
+TXN100097,1018,2024-11-24,Healthcare,287.68,Cash,Axis,Book network idea family me player.,False,3000,None,0,4000,2731.3,False
+TXN100098,1000,2025-04-25,Investment,2185.53,Cash,Kotak,Away store health left short window.,False,2000,Laptop Upgrade,10000,8000,5474.62,False
+TXN100099,1012,2025-03-02,Entertainment,582.77,Debit Card,Kotak,Address trip themselves.,False,3000,Vacation,15000,8000,5172.28,True
+TXN100100,1019,2024-12-05,Dining,516.13,Net Banking,Paytm Bank,Through doctor music.,True,5000,Laptop Upgrade,20000,0,5882.67,True
+TXN100101,1015,2025-02-19,Healthcare,861.99,Debit Card,SBI,Difference listen order pay attack man.,False,3000,New Phone,20000,4000,5715.0,True
+TXN100102,1014,2025-01-27,Dining,270.28,Cash,Kotak,Analysis movement these position letter tonight.,False,3000,None,15000,0,1584.31,True
+TXN100103,1001,2025-02-08,Travel,2847.58,Debit Card,SBI,Out at doctor.,True,6000,Emergency Fund,15000,0,3620.93,True
+TXN100104,1019,2025-02-17,Travel,804.27,Cash,HDFC,Husband young interest.,False,6000,Vacation,0,0,6225.97,True
+TXN100105,1006,2025-02-15,Groceries,4422.98,Debit Card,Paytm Bank,Only head American a member.,True,2000,None,20000,2000,1651.22,False
+TXN100106,1006,2025-04-29,Groceries,4721.78,Cash,ICICI,Benefit hotel girl key painting without.,True,2000,Vacation,15000,2000,1698.21,True
+TXN100107,1020,2025-02-01,Groceries,2022.03,Credit Card,Kotak,Civil must prepare carry.,False,6000,Laptop Upgrade,10000,2000,3145.69,False
+TXN100108,1010,2024-12-28,Entertainment,1521.1,Debit Card,ICICI,Customer they vote.,False,4000,None,10000,8000,2685.94,False
+TXN100109,1003,2025-01-11,Education,1526.07,Cash,ICICI,Together follow through.,True,4000,New Phone,0,4000,3870.1,False
+TXN100110,1015,2024-11-25,Investment,4841.63,UPI,ICICI,Article already until or side.,True,5000,Laptop Upgrade,10000,0,5252.1,False
+TXN100111,1003,2025-01-02,Dining,961.56,Credit Card,Paytm Bank,Consider scene soon few describe claim.,True,5000,None,15000,2000,3961.61,False
+TXN100112,1004,2025-04-20,Rent,605.73,UPI,Paytm Bank,Watch large particularly.,False,6000,None,20000,6000,6289.92,False
+TXN100113,1009,2025-02-28,Savings,4772.16,Credit Card,ICICI,Fish raise career relate of.,True,2000,None,10000,2000,5367.29,False
+TXN100114,1009,2025-03-08,Groceries,4155.54,UPI,SBI,Lot state husband history answer.,False,5000,New Phone,15000,2000,6808.09,False
+TXN100115,1015,2024-11-23,Entertainment,3013.13,Debit Card,Paytm Bank,Author act simple.,False,6000,None,15000,8000,6463.74,True
+TXN100116,1004,2025-02-05,Education,221.21,Cash,Kotak,Second bit maybe second decide man.,False,5000,None,0,4000,4888.38,False
+TXN100117,1020,2025-01-27,Entertainment,2671.96,Debit Card,SBI,Despite apply arm.,False,5000,Vacation,0,8000,2069.33,True
+TXN100118,1003,2025-04-21,Healthcare,4489.67,Debit Card,SBI,Argue total way beat word.,True,5000,Vacation,0,2000,3952.2,True
+TXN100119,1004,2024-11-06,Education,3296.59,Net Banking,HDFC,Range determine likely culture increase care.,False,5000,Laptop Upgrade,10000,0,2834.41,True
+TXN100120,1004,2025-01-24,Dining,3440.7,Net Banking,Axis,Black write worker appear despite should.,True,6000,Laptop Upgrade,0,6000,5861.88,True
+TXN100121,1007,2025-03-21,Utilities,122.39,Cash,Paytm Bank,Real maintain mention.,True,6000,Laptop Upgrade,20000,2000,5242.36,True
+TXN100122,1018,2025-02-14,Dining,1099.46,UPI,SBI,Bank generation here sport.,False,2000,Vacation,15000,0,5948.48,False
+TXN100123,1016,2025-03-11,Dining,3938.79,Credit Card,Axis,Well across really PM hard.,False,4000,New Phone,10000,4000,3973.7,True
+TXN100124,1009,2025-02-11,Investment,3083.87,Net Banking,Paytm Bank,More water see wear.,True,4000,Vacation,15000,0,6690.42,False
+TXN100125,1001,2025-03-11,Entertainment,522.47,Net Banking,HDFC,Floor benefit report.,False,5000,Emergency Fund,20000,8000,5694.82,False
+TXN100126,1005,2025-01-05,Healthcare,161.93,Credit Card,Paytm Bank,Its about usually.,True,4000,None,20000,2000,6007.58,True
+TXN100127,1011,2025-01-08,Utilities,1916.59,Cash,Kotak,Last do free police task.,True,5000,None,20000,0,4559.87,False
+TXN100128,1011,2024-11-22,Investment,1887.32,Cash,Axis,Wrong dark lose clear blood.,True,2000,Vacation,0,8000,3069.35,False
+TXN100129,1000,2025-04-14,Travel,3109.93,Net Banking,Kotak,Rich too bag next school available century.,False,4000,None,15000,0,6998.15,False
+TXN100130,1015,2025-02-21,Healthcare,3816.02,Debit Card,Kotak,There finish may require most sound.,False,5000,Laptop Upgrade,0,6000,2640.85,True
+TXN100131,1005,2024-11-19,Utilities,621.9,Cash,ICICI,Nearly under discussion.,False,6000,Vacation,0,6000,2028.84,True
+TXN100132,1014,2024-11-09,Education,4395.89,Cash,Kotak,Republican beyond personal surface.,True,5000,Vacation,0,4000,5851.22,True
+TXN100133,1002,2025-02-27,Investment,267.49,Net Banking,SBI,Effort other middle between short.,False,4000,New Phone,20000,0,2125.94,True
+TXN100134,1001,2025-01-27,Groceries,4797.26,Net Banking,Kotak,Rest interest own season view.,True,4000,None,10000,6000,3340.32,False
+TXN100135,1020,2025-02-01,Savings,3852.18,Cash,Axis,Speech manage military interesting own.,True,6000,New Phone,0,0,5030.16,False
+TXN100136,1002,2024-12-12,Utilities,1403.69,Net Banking,SBI,Near street argue officer officer.,False,3000,Laptop Upgrade,20000,0,2405.08,False
+TXN100137,1000,2025-04-25,Dining,2624.87,Cash,HDFC,Pretty positive Mr.,True,5000,Emergency Fund,0,8000,2365.44,True
+TXN100138,1016,2024-12-30,Rent,4182.65,UPI,HDFC,Scientist fund charge again town stuff.,True,4000,Laptop Upgrade,20000,8000,6731.11,True
+TXN100139,1004,2024-12-17,Rent,4169.85,Credit Card,HDFC,Southern sometimes check performance lead movement.,False,6000,Vacation,0,8000,5605.78,False
+TXN100140,1014,2025-02-01,Groceries,391.64,Debit Card,SBI,Adult ago thing yard inside.,False,4000,Emergency Fund,0,4000,2793.74,False
+TXN100141,1004,2025-03-28,Rent,1286.98,Credit Card,HDFC,Feeling concern necessary.,False,2000,New Phone,10000,0,2820.12,True
+TXN100142,1011,2025-02-27,Travel,3109.14,Cash,Axis,Remember around effect nor class.,True,2000,Vacation,15000,0,5339.2,False
+TXN100143,1004,2024-12-20,Entertainment,853.43,Net Banking,ICICI,Into officer herself get level.,True,4000,New Phone,20000,0,3502.06,False
+TXN100144,1018,2025-04-12,Healthcare,2671.62,Cash,Axis,East game along happy.,True,4000,Laptop Upgrade,10000,4000,2995.12,True
+TXN100145,1017,2024-11-22,Utilities,3871.78,Cash,HDFC,Two wish foreign.,True,5000,Vacation,20000,8000,4807.13,False
+TXN100146,1004,2025-03-09,Utilities,2090.71,Debit Card,Paytm Bank,Green mention reveal after do.,True,3000,Laptop Upgrade,10000,6000,6727.92,False
+TXN100147,1000,2025-01-16,Education,1366.12,UPI,Paytm Bank,Knowledge research look owner.,False,5000,Laptop Upgrade,15000,8000,4301.15,False
+TXN100148,1000,2024-11-13,Rent,2541.21,Credit Card,ICICI,Guess son style official suddenly.,True,4000,Laptop Upgrade,20000,4000,4462.15,True
+TXN100149,1014,2025-02-22,Savings,4608.8,Cash,Kotak,Property military tough newspaper house main.,True,4000,Laptop Upgrade,10000,2000,6210.23,False
